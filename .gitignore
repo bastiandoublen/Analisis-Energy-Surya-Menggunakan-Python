@@ -1,0 +1,15 @@
+.venv/
+venv/
+env/
+
+__pycache__/
+*.pyc
+*.pyo
+
+.vscode/
+
+hasil_prediksi*.csv
+evaluasi_model*.txt
+plot*.png
+
+*.env
