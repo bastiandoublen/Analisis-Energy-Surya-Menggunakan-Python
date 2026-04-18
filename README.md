@@ -4,7 +4,7 @@ Kode ini dibuat untuk paper jurnal prediksi daya panel surya menggunakan data NA
 
 # Mahasiswa yang berkontribusi penelitian ini
 
-1. inspired variabel : Syauqi Nuzul Abdi (202512042)
+1. Inspired Variabel : Syauqi Nuzul Abdi (202512042)
 2. Code Written : Bastian Nisfu Nugraha (202512026)
 
 # How to run
