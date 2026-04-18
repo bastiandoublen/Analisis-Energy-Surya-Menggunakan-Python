@@ -5,8 +5,8 @@ Lokasi Bontang, Kalimantan Timur, periode 10 tahun (2015-2024) data bulanan.
 
 # Mahasiswa yang berkontribusi penelitian ini
 
-inspired variabel : Syauqi Nuzul Abdi (202512042)
-Code Written : Bastian Nisfu Nugraha (202512026)
+1. inspired variabel : Syauqi Nuzul Abdi (202512042)
+2. Code Written : Bastian Nisfu Nugraha (202512026)
 
 # how to run
 1. tempel file CSV menjadi satu folder sama script "analisis_pv_nasa_power.py"
