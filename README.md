@@ -2,6 +2,9 @@
 
 Kode ini dibuat untuk paper jurnal prediksi daya panel surya pake data NASA POWER.
 Lokasi Bontang, Kalimantan Timur, periode 10 tahun (2015-2024) data bulanan.
+
+# Mahasiswa yang berkontribusi penelitian ini
+
 inspired variabel : Syauqi Nuzul Abdi (202512042)
 Code Written : Bastian Nisfu Nugraha (202512026)
 
